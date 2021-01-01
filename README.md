@@ -1,0 +1,2 @@
+# wp-plugin_front-adminbar-color
+WEBサイト上部に表示されるAdminbarに色をつけるWordpressのプラグインを作りました。
